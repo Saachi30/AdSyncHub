@@ -1,0 +1,27 @@
+.outerpg2{
+    font-size: 25px;
+}
+.lowerpg2 button{
+    margin: 25px 20px;
+}
+.pg2btn{
+    width: 200px;
+    height: 200px;
+    margin: 20px 20px;
+    background-color: rgb(42, 71, 165);;
+}
+.upperbtn{
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: 700;
+    background-color: rgb(42, 71, 165);;
+}
+.lowerbtn{
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(42, 71, 165);;
+}
+.pg2btn:hover{
+    background-color: rgb(42, 71, 165);;
+}

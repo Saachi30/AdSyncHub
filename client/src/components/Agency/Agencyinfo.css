@@ -1,0 +1,23 @@
+table{
+    background-color: white;
+    width: 60vw;
+}
+table, th, td{
+    border: 1px solid;
+}
+tr, td{
+    padding: 20px 15px;
+}
+th{
+    padding: 10px 15px;
+}
+.agencytext{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.agencypage{
+    display: flex;
+    align-items: center;
+   
+    flex-direction: column;
+}

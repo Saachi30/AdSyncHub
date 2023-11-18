@@ -1,0 +1,15 @@
+.modal-dialog{
+    width: 40vw;
+    background-color: rgb(225, 226, 231);
+    padding: 20px 30px;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+.modal-body{
+    margin: 20px 0px;
+}
+.dialogbtn{
+    width: 150px;
+    margin: 20px 20px;
+    background-color: rgb(42, 71, 165);;
+}
